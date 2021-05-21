@@ -1,0 +1,4 @@
+
+---
+# - include: k8s-general-setup.yml
+- include: k8s-github.yml
